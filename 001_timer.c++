@@ -9,7 +9,7 @@ int main(void)
     do
     {
         scanf("%d %d %d %d", &time[0], &time[1], &time[2], &time[3]);
-        power = time[0] + time[1] + time[2] + time[3];
+        power = time[0] || time[1] || time[2] || time[3];
         if (power)
         {
             if (time[2] < time[0] || (time[2] == time[0] && time[3] < time[1]))
