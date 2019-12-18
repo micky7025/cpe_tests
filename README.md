@@ -12,6 +12,6 @@
 
 Taiwan CPE, Collegiate Programming Examination, Test Examples
 
-- LICENSE: [WTFPL 2.0](LICENSE.md)
+- LICENSE: [WTFPL 2.0](LICENSE)
 
 > Copyright (C) 2019 Randy Chen <https://randychen.tk/>
